@@ -3,4 +3,4 @@ The implementation provides a flexible framework for simulating and estimating t
 Adjustments can be made to parameters and noise levels to observe their effects on estimation accuracy.
 
 Particle filter:
-The implementation of the Particle Filter to estimate the positions and velocity vectors of two balls ying simultaneously only from the observed erroneous positions over time
+The implementation of the Particle Filter to estimate the positions and velocity vectors of two balls flying simultaneously only from the observed erroneous positions over time
